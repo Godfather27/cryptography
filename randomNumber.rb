@@ -1,7 +1,7 @@
 require 'openssl'
 require 'yaml'
 require 'csv'
-require_relative 'stoppwatch'
+require_relative 'stopwatch'
 
 array = Array.new
 
